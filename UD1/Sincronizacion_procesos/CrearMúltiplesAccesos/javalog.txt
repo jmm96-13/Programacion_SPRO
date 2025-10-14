@@ -1,0 +1,200 @@
+Creado el proceso 0
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Proceso 0: Creando el fichero.
+Creado el proceso 11
+Proceso 0: Valor leído del fichero: 0
+Proceso 0: Valor escrito en el fichero: 1
+Creado el proceso 12
+Creado el proceso 13
+Creado el proceso 14
+Creado el proceso 15
+Creado el proceso 16
+Creado el proceso 17
+Proceso 1: Valor leído del fichero: 1
+Proceso 1: Valor escrito en el fichero: 2
+Proceso 3: Valor leído del fichero: 1
+Proceso 3: Valor escrito en el fichero: 2
+Proceso 9: Valor leído del fichero: 2
+Proceso 9: Valor escrito en el fichero: 3
+Creado el proceso 18
+Proceso 4: Valor leído del fichero: 3
+Proceso 4: Valor escrito en el fichero: 4
+Proceso 5: Valor leído del fichero: 3
+Proceso 5: Valor escrito en el fichero: 4
+Creado el proceso 19
+Creado el proceso 20
+Proceso 2: Valor leído del fichero: 4
+Proceso 2: Valor escrito en el fichero: 5
+Proceso 8: Valor leído del fichero: 4
+Proceso 8: Valor escrito en el fichero: 5
+Proceso 6: Valor leído del fichero: 5
+Proceso 6: Valor escrito en el fichero: 6
+Proceso 10: Valor leído del fichero: 6
+Proceso 7: Valor leído del fichero: 6
+Proceso 7: Valor escrito en el fichero: 7
+Proceso 10: Valor escrito en el fichero: 7
+Proceso 11: Valor leído del fichero: 7
+Proceso 11: Valor escrito en el fichero: 8
+Proceso 12: Valor leído del fichero: 7
+Proceso 12: Valor escrito en el fichero: 8
+Proceso 14: Valor leído del fichero: 8
+Proceso 14: Valor escrito en el fichero: 9
+Proceso 13: Valor leído del fichero: 8
+Proceso 13: Valor escrito en el fichero: 9
+Proceso 15: Valor leído del fichero: 9
+Proceso 15: Valor escrito en el fichero: 10
+Proceso 17: Valor leído del fichero: 9
+Proceso 17: Valor escrito en el fichero: 10
+Proceso 16: Valor leído del fichero: 10
+Proceso 16: Valor escrito en el fichero: 11
+Proceso 18: Valor leído del fichero: 11
+Proceso 18: Valor escrito en el fichero: 12
+Proceso 20: Valor leído del fichero: 11
+Proceso 20: Valor escrito en el fichero: 12
+Proceso 19: Valor leído del fichero: 11
+Proceso 19: Valor escrito en el fichero: 12
+Proceso 0: Valor leído del fichero: 12
+Proceso 0: Valor escrito en el fichero: 13
+Proceso 0: Valor leído del fichero: 13
+Proceso 0: Valor escrito en el fichero: 14
+Creado el proceso 0
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Creado el proceso 11
+Creado el proceso 12
+Creado el proceso 13
+Creado el proceso 14
+Creado el proceso 15
+Creado el proceso 16
+Creado el proceso 17
+Creado el proceso 18
+Creado el proceso 19
+Proceso 0: Valor leído del fichero: 14
+Proceso 0: Valor escrito en el fichero: 15
+Creado el proceso 20
+Proceso 1: Valor leído del fichero: 15
+Proceso 1: Valor escrito en el fichero: 16
+Proceso 2: Valor leído del fichero: 16
+Proceso 2: Valor escrito en el fichero: 17
+Proceso 4: Valor leído del fichero: 17
+Proceso 4: Valor escrito en el fichero: 18
+Proceso 11: Valor leído del fichero: 17
+Proceso 11: Valor escrito en el fichero: 18
+Proceso 10: Valor leído del fichero: 18
+Proceso 10: Valor escrito en el fichero: 19
+Proceso 6: Valor leído del fichero: 19
+Proceso 6: Valor escrito en el fichero: 20
+Proceso 3: Valor leído del fichero: 19
+Proceso 3: Valor escrito en el fichero: 20
+Proceso 8: Valor leído del fichero: 20
+Proceso 8: Valor escrito en el fichero: 21
+Proceso 7: Valor leído del fichero: 21
+Proceso 7: Valor escrito en el fichero: 22
+Proceso 18: Valor leído del fichero: 21
+Proceso 18: Valor escrito en el fichero: 22
+Proceso 16: Valor leído del fichero: 22
+Proceso 16: Valor escrito en el fichero: 23
+Proceso 5: Valor leído del fichero: 23
+Proceso 5: Valor escrito en el fichero: 24
+Proceso 17: Valor leído del fichero: 23
+Proceso 17: Valor escrito en el fichero: 24
+Proceso 14: Valor leído del fichero: 24
+Proceso 14: Valor escrito en el fichero: 25
+Proceso 20: Valor leído del fichero: 24
+Proceso 20: Valor escrito en el fichero: 25
+Proceso 15: Valor leído del fichero: 24
+Proceso 15: Valor escrito en el fichero: 25
+Proceso 12: Valor leído del fichero: 24
+Proceso 12: Valor escrito en el fichero: 25
+Proceso 9: Valor leído del fichero: 25
+Proceso 19: Valor leído del fichero: 25
+Proceso 9: Valor escrito en el fichero: 26
+Proceso 13: Valor leído del fichero: 25
+Proceso 19: Valor escrito en el fichero: 26
+Proceso 13: Valor escrito en el fichero: 26
+Proceso 0: Valor leído del fichero: 26
+Proceso 0: Valor escrito en el fichero: 27
+Proceso 0: Valor leído del fichero: 27
+Proceso 0: Valor escrito en el fichero: 28
+Creado el proceso 0
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Creado el proceso 11
+Creado el proceso 12
+Creado el proceso 13
+Creado el proceso 14
+Creado el proceso 15
+Proceso 0: Valor leído del fichero: 28
+Proceso 0: Valor escrito en el fichero: 29
+Creado el proceso 16
+Creado el proceso 17
+Creado el proceso 18
+Creado el proceso 19
+Creado el proceso 20
+Proceso 2: Valor leído del fichero: 29
+Proceso 2: Valor escrito en el fichero: 30
+Proceso 1: Valor leído del fichero: 30
+Proceso 1: Valor escrito en el fichero: 31
+Proceso 4: Valor leído del fichero: 30
+Proceso 4: Valor escrito en el fichero: 31
+Proceso 3: Valor leído del fichero: 30
+Proceso 3: Valor escrito en el fichero: 31
+Proceso 9: Valor leído del fichero: 31
+Proceso 9: Valor escrito en el fichero: 32
+Proceso 7: Valor leído del fichero: 32
+Proceso 7: Valor escrito en el fichero: 33
+Proceso 8: Valor leído del fichero: 32
+Proceso 8: Valor escrito en el fichero: 33
+Proceso 11: Valor leído del fichero: 32
+Proceso 11: Valor escrito en el fichero: 33
+Proceso 5: Valor leído del fichero: 33
+Proceso 5: Valor escrito en el fichero: 34
+Proceso 10: Valor leído del fichero: 33
+Proceso 10: Valor escrito en el fichero: 34
+Proceso 12: Valor leído del fichero: 34
+Proceso 12: Valor escrito en el fichero: 35
+Proceso 13: Valor leído del fichero: 34
+Proceso 13: Valor escrito en el fichero: 35
+Proceso 6: Valor leído del fichero: 35
+Proceso 6: Valor escrito en el fichero: 36
+P15 Error al leer del fichero
+Proceso 15: Valor escrito en el fichero: 1
+P16 Error al leer del fichero
+Proceso 16: Valor escrito en el fichero: 1
+Proceso 17: Valor leído del fichero: 1
+Proceso 17: Valor escrito en el fichero: 2
+Proceso 14: Valor leído del fichero: 35
+Proceso 14: Valor escrito en el fichero: 36
+Proceso 18: Valor leído del fichero: 2
+Proceso 18: Valor escrito en el fichero: 3
+Proceso 19: Valor leído del fichero: 3
+Proceso 19: Valor escrito en el fichero: 4
+Proceso 20: Valor leído del fichero: 3
+Proceso 20: Valor escrito en el fichero: 4
+Proceso 0: Valor leído del fichero: 4
+Proceso 0: Valor escrito en el fichero: 5
