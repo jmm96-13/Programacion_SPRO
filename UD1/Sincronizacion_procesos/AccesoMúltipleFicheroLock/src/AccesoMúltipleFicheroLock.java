@@ -1,9 +1,9 @@
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.FileWriter;
+//import java.io.FileWriter;
 import java.io.PrintStream;
-import java.io.PrintWriter;
+//import java.io.PrintWriter;
 import java.io.RandomAccessFile;
 import java.nio.channels.FileLock;
 
@@ -72,11 +72,21 @@ public class AccesoMúltipleFicheroLock {
       //bloqueamos el canal de acceso al fichero. Obtenemos el objeto que
       //representa el bloqueo para después poder liberarlo
       System.out.println("Proceso " + orden + ": ENTRA sección");
-      // Lectura del fichero
-      valor = raf.readInt(); //leemos el valor
-      valor++; //incrementamos
-      raf.seek(0); //volvemos a colocarnos al principio del fichero
-      raf.writeBytes(String.valueOf(valor)); //escribimos el valor  raf.writeInt(valor) da fallos
+      // Lectura del fichero en formato texto
+      raf.seek(0); // nos aseguramos de empezar al principio
+      byte[] buffer = new byte[(int) raf.length()];
+      raf.readFully(buffer);
+      String contenido = new String(buffer).trim();
+
+      // Si el fichero está vacío, valor = 0
+      valor = contenido.isEmpty() ? 0 : Integer.parseInt(contenido);
+
+      // Incrementamos el valor y reescribimos el fichero
+      valor++;
+      raf.setLength(0); // limpia el fichero antes de escribir
+      raf.seek(0);
+      raf.writeBytes(String.valueOf(valor));
+
       System.out.println("Proceso " + orden + ": SALE sección");
       bloqueo.release(); //Liberamos el bloqueo del canal del fichero
       bloqueo = null;        
