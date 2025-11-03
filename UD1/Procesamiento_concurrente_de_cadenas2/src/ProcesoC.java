@@ -47,3 +47,6 @@ public class ProcesoC { //contador de vocales
         }
     }
 }
+/*El proceso C recibe los datos del proceso B en el formato cadena,longitud.
+Separa ambos valores, analiza la cadena carácter por carácter y cuenta las vocales.
+Muestra la cantidad de vocales de cada palabra y el total acumulado*/
