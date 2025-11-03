@@ -45,3 +45,5 @@ public class ProcesoA { //generador de cadenas
         }
     }
 }
+
+//Genera 15 cadenas aleatorias de letras (a–z), de longitud entre 5-15 caracteres.
