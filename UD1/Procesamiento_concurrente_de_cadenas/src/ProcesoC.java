@@ -10,7 +10,7 @@ public class ProcesoC { //Contador de vocales
                     v++; break; //si es vocal, incrementa el contador
             }
         }
-        return v;
+        return v; // Devuelve el número de vocales encontradas
     }
 
     public static void main(String[] args) {

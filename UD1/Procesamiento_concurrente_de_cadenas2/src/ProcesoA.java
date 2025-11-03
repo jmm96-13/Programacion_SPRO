@@ -1,3 +1,28 @@
+/*//import java.io.OutputStream;
+import java.io.PrintWriter;
+
+public class ProcesoA { //generador de cadenas
+    public static void main(String[] args) throws Exception { // 
+        String abcedario = "abcdefghijklmnñopqrstuvwxyz";
+        PrintWriter out = new PrintWriter(System.out, true); 
+        //printwriter para escribir en la salida estandar System.out
+        //true activa el auto-flush, que asegura que los datos se envien inmediatamente
+        int totalCadenas = 15; 
+        //numero total de cadenas a generar
+
+        for (int i = 0; i < totalCadenas; i++) { //bucle para generar 15 cadenas
+            int len = 5 + (int) (Math.random() * 11); //longitud aleatoria entre 5 y 15
+
+            StringBuilder sb = new StringBuilder(len); //objeto para construir la cadena
+            for (int j = 0; j < len; j++) { //bucle para generar cada caracter de la cadena
+                int indice = (int) (Math.random() * abcedario.length()); //indice aleatorio en el abecedario
+                sb.append(abcedario.charAt(indice)); //agrega el caracter al StringBuilder
+            }
+            out.println(sb.toString()); //escribe la cadena generada en la salida estandar
+        }
+    }
+}
+*/
 //import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.Random;
