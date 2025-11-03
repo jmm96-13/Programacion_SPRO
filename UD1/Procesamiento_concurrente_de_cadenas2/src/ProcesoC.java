@@ -8,7 +8,7 @@ public class ProcesoC { //contador de vocales
         String vocales = "aeiou";
         int totalVocales = 0; //contador total de vocales en todas las cadenas
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
-        //lector de la entrada estandar poel Proceso B
+        //lector de la entrada estandar por el Proceso B
 
         try {
             String linea;
