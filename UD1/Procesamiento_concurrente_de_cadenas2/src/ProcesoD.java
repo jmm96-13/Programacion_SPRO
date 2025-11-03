@@ -19,7 +19,7 @@ public class ProcesoD { //controlador de los 3 procesos
                 // con tuberías, de forma que la salida de A pasa a B y luego a C
 
                 String[] split = orden.split(" "); //divide el comando en "partes" para exec
-                Runtime.getRuntime().exec(split); //ejecuta el comando
+                Runtime.getRuntime().exec(split); //ejecuta el comando y lanza los 3 procesos (A, B y C)
                 
 
             } catch (Exception e) { 
